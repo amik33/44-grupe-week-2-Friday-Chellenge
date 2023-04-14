@@ -1,0 +1,16 @@
+{
+  "name": "44-grupe-week-2-friday-chellenge",
+  "version": "1.0.0",
+  "description": "Week 2 Friday Challange",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4405",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arunas",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
