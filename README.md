@@ -14,9 +14,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://amik33.github.io/44-grupe-Week 2 Friday Challange/
+Site published at: https://amik33.github.io/44-grupe-Week-2-Friday-Challange/
 
-Design: [Week 2 Friday Challange](https://)
+Design: [Week 2 Friday Challange](https://https://amik33.github.io/44-grupe-week-2-Friday-Chellenge/)
 ## 🎯 Project features/goals
 
 -   Github pages
