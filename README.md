@@ -14,15 +14,18 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://amik33.github.io/44-grupe-Week-2-Friday-Challange/
+Site published at: https://amik33.github.io/44-grupe-week-2-friday-challange/
 
-Design: [Week 2 Friday Challange](https://https://amik33.github.io/44-grupe-week-2-Friday-Chellenge/)
+Design: [Week 2 Friday Challange](https://https://amik33.github.io/44-grupe-week-2-friday-chellenge/)
 ## 🎯 Project features/goals
 
 -   Github pages
--   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -   Basic HTML
 -   Basic CSS
+
+
+-   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 ## 🧰 Getting Started
 
@@ -46,7 +49,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/amik33/44-grupe-Week 2 Friday Challange.git
+    git clone https://github.com/amik33/44-grupe-week-2-friday-challange.git
     ```
 2. Install NPM packages
     ```sh
